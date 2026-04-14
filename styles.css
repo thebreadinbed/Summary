@@ -3,3 +3,17 @@
 body {
   font-family: "Cascadia Code", monospace;
 }
+
+h2 {
+  text-align: justify;
+}
+
+.callout .callout-body {
+  text-align: justify;
+  hyphens: auto;
+}
+
+.orange-text {
+  color: #d05e1c;
+}
+
